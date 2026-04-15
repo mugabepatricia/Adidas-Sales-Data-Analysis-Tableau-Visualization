@@ -61,5 +61,6 @@ This dashboard demonstrates the ability to:
 ## Files Included
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/AdidasTableauVisual/Dashboard1">Tableau Dashboard Visual</a>
 - <a href="https://github.com/mugabepatricia/Adidas-Sales-Data-Analysis-Tableau-Visualization/blob/main/Adidas.xlsx">Adidas Data</a>
+- <a href="https://github.com/mugabepatricia/Adidas-Sales-Data-Analysis-Tableau-Visualization/blob/main/Adidas%20Viz.png">Adidas Dashboard Image</a>
 ## Let’s Connect
 If you’re interested in data analytics, healthcare analytics, or collaboration opportunities, feel free to connect!
